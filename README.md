@@ -21,18 +21,18 @@ Run payroll, track pension auto-enrolment, monitor sickness/SSP, file HMRC retur
 | Employees | NI number, tax code, salary, pension enrolment, status |
 | Pension | Auto-enrolment scheme tracking with qualifying-earnings calculation |
 | Holiday Accrual | WTR 1998 5.6-week tracking, Harpur Trust 12.07% for variable-hours |
-| Sickness & SSP | Sickness episodes with SSP calculation (TBA/wk, 3 waiting days, max 28 wks) |
+| Sickness & SSP | Sickness episodes with SSP calculation (£118.75/wk, 3 waiting days, max 28 wks) |
 | HMRC Returns | FPS/EPS/P60/P11D log with deadlines reference |
 | Compliance | 13-point checklist: RTI, pension, NMW, EL insurance, gender pay gap |
 
 ### Key rules
 
 - **HMRC RTI**: FPS on/before payday, EPS by 19th of following month
-- **PAYE 2025/26**: PA TBA, basic 20% to TBA, higher 40% to TBA, additional 45%
-- **NI 2025/26**: Employee 8% on TBA-TBA, 2% above; Employer 13.8% above TBA
-- **Pension auto-enrolment**: Employer 3%, employee 5%, qualifying earnings TBA-TBA
-- **SSP 2025/26**: TBA/week, 3 waiting days, max 28 weeks
-- **NLW 2024**: TBA (21+) — increases each April
+- **PAYE 2025/26**: PA £12,570, basic 20% to £50,270, higher 40% to £125,140, additional 45%
+- **NI 2025/26**: Employee 8% on £12,570-£50,270, 2% above; Employer 13.8% above £9,100
+- **Pension auto-enrolment**: Employer 3%, employee 5%, qualifying earnings £6,240-£50,270
+- **SSP 2025/26**: £118.75/week, 3 waiting days, max 28 weeks
+- **NLW 2024**: £11.44/hr (21+) — increases each April
 
 ---
 
